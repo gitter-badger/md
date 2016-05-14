@@ -18,6 +18,8 @@ import 'components/subheader/subheader.dart';
 export 'components/subheader/subheader.dart';
 import 'components/switcher/switch.dart';
 export 'components/switcher/switch.dart';
+import 'components/tabs/tabs.dart';
+export 'components/tabs/tabs.dart';
 
 const MATERIAL_DIRECTIVES = const [
   MdButton,
@@ -32,4 +34,6 @@ const MATERIAL_DIRECTIVES = const [
   MdCheckbox,
   MdSubheader,
   MdSwitch,
+  MdTab,
+  MdTabs
 ];
