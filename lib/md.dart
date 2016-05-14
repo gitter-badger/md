@@ -8,6 +8,8 @@ import 'components/divider/divider.dart';
 export 'components/divider/divider.dart';
 import 'components/icon/icon.dart';
 export 'components/icon/icon.dart';
+import 'components/input/input.dart';
+export 'components/input/input.dart';
 import 'components/list/list.dart';
 export 'components/list/list.dart';
 import 'components/progress_circular/progress_circular.dart';
@@ -27,6 +29,8 @@ const MATERIAL_DIRECTIVES = const [
   MdDivider,
   MdAnchor,
   MdIcon,
+  MdInput,
+  MdInputContainer,
   MdList,
   MdProgressCircular,
   MdProgressLinear,
