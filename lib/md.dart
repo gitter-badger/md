@@ -1,3 +1,5 @@
+import 'components/backdrop/backdrop.dart';
+export 'components/backdrop/backdrop.dart';
 import 'components/button/button.dart';
 export 'components/button/button.dart';
 import 'components/card/card.dart';
@@ -24,6 +26,7 @@ import 'components/tabs/tabs.dart';
 export 'components/tabs/tabs.dart';
 
 const MATERIAL_DIRECTIVES = const [
+  MdBackdrop,
   MdButton,
   MdContent,
   MdDivider,
