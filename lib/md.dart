@@ -24,6 +24,8 @@ import 'components/switcher/switch.dart';
 export 'components/switcher/switch.dart';
 import 'components/tabs/tabs.dart';
 export 'components/tabs/tabs.dart';
+import 'components/toolbar/toolbar.dart';
+export 'components/toolbar/toolbar.dart';
 
 const MATERIAL_DIRECTIVES = const [
   MdBackdrop,
@@ -42,5 +44,6 @@ const MATERIAL_DIRECTIVES = const [
   MdSubheader,
   MdSwitch,
   MdTab,
-  MdTabs
+  MdTabs,
+  MdToolbar
 ];
