@@ -1,5 +1,7 @@
 # Ng2 Material for Dart
 
+[![Join the chat at https://gitter.im/adaojunior/md](https://badges.gitter.im/adaojunior/md.svg)](https://gitter.im/adaojunior/md?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a port of [justindujardin/ng2-material](https://github.com/justindujardin/ng2-material).
 
 ## How to contribute
